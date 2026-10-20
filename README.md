@@ -230,7 +230,7 @@ If you intend to publish the project for public reuse, consider adding an approp
 
 **Your Name**
 
-- GitHub: [YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+- GitHub: [Alfie Praveen](https://github.com/YOUR-USERNAME)
 
 ---
 
