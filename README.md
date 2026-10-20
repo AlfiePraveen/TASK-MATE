@@ -1,4 +1,4 @@
-# 📅 Task Mater – Daily Task Scheduler
+# 📅 Task Mate – Daily Task Scheduler
 
 **Organize your day. Manage your tasks. Achieve your goals.**
 
@@ -90,15 +90,15 @@ No database installation or package manager is required.
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/task-mater.git
+git clone https://github.com/Alfie Praveen/TASK-MATE.git
 ```
 
-Replace `YOUR-USERNAME` with your GitHub username.
+Replace `` with your GitHub username.
 
 **2. Navigate to the project directory**
 
 ```bash
-cd task-mater
+cd TASK-MATE
 ```
 
 **3. Open the application**
@@ -150,7 +150,7 @@ Use the task filter to display all tasks or show only pending or completed tasks
 
 ## 🔐 Data Storage and Privacy
 
-Task Mater stores task data locally in your browser using Local Storage.
+Task Mate stores task data locally in your browser using Local Storage.
 
 - No dedicated backend database is required.
 - Tasks are associated with the browser and website origin where they were saved.
@@ -228,12 +228,12 @@ If you intend to publish the project for public reuse, consider adding an approp
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Alfie Praveen**
 
-- GitHub: [Alfie Praveen](https://github.com/YOUR-USERNAME)
+- GitHub: [Alfie Praveen](https://github.com/AlfiePraveen)
 
 ---
 
 ⭐ If you find this project useful, consider giving the repository a star!
 
-**Task Mater — Stay Organized. Stay Productive.**
+**Task Mate — Stay Organized. Stay Productive.**
